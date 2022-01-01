@@ -1,5 +1,5 @@
 {
-  "scholarship": [
+  "University": [
     {
       "id": 1,
       "eligibilityId": "Fuuast",
@@ -26,12 +26,54 @@
       "aidCoverage": "upadting",
       "startDate": "https://marj3.azureedge.net/wp-content/uploads/2020/09/Screenshot-540.png",  
       "title": "https://marj3.azureedge.net/wp-content/uploads/2020/09/Screenshot-540.png"
-
+      
       
       
     },
-
-
+    {
+       "id": 2,
+      "name": "university of peshawar",
+      "description": "The University of Peshawar is a public research university located in Peshawar, Khyber Pakhtunkhwa, Pakistan. The university is one of the oldest universities in the province, and is ranked as one of the highest rated universities in the country.",
+      "country": "Pakistan",
+       "city": "peshawar",
+      "faculties": "bscs",
+      "contactInfo": "+92",
+      "rate": 10.2,
+     "state": "sindh",
+      "certifications": "bscs",
+      "extraInfo": "upadting",
+      "imgUrl": "https://marj3.azureedge.net/wp-content/uploads/2020/09/Screenshot-540.png"    
+    },
+    {
+       "id": 3,
+      "name": "university of lahore",
+      "description": "The University of lahore is a public research university located in Peshawar, Khyber Pakhtunkhwa, Pakistan. The university is one of the oldest universities in the province, and is ranked as one of the highest rated universities in the country.",
+      "country": "Pakistan",
+       "city": "lahore",
+      "faculties": "bscs",
+      "contactInfo": "+92",
+      "rate": 10.2,
+     "state": "sindh",
+      "certifications": "bscs",
+      "extraInfo": "upadting",
+      "imgUrl": "https://marj3.azureedge.net/wp-content/uploads/2020/09/Screenshot-540.png"    
+    },
+    
+    {
+       "id": 4,
+      "name": "university of nile",
+      "description": "The University of lahore is a public research university located in Peshawar, Khyber Pakhtunkhwa, Pakistan. The university is one of the oldest universities in the province, and is ranked as one of the highest rated universities in the country.",
+      "country": "Pakistan",
+       "city": "ejpt",
+      "faculties": "computer science, math,english",
+      "contactInfo": "+92",
+      "rate": 10.2,
+     "state": "sindh",
+      "certifications": "bscs",
+      "extraInfo": "upadting",
+      "imgUrl": "https://marj3.azureedge.net/wp-content/uploads/2020/09/Screenshot-540.png"    
+    }
+    
     
      
     
