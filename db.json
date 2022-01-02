@@ -2,78 +2,34 @@
   "scholarship": [
     {
       "id": 1,
-      "eligibilityId": "Fuuast",
-      "benefitId": "The Federal Urdu University of Arts, Science and Technology; alternatively known as FUUAST is a public university primarily located at Islamabad, Pakistan. The university has two satellite campuses; the central campus is located in Islamabad while the secondary campus is located in Karachi.",
-      "universityId": "Pakistan",
+      "eligibilityId": 1,
+      "benefitId": 1,
+      "universityId": 1,
        "university": "karachi",
-      "benefits": "Computer science",
+      "benefits": "bscs",
       "eligibility": "(091) 9216701",
-      "universityName": 10,
+      "universityName": "fuuast",
      "financialAid": "sindh",
       "applicationProcess": "bscs",
       "extraInfo": "upadting",
-      "otherLanguageTests": "https://marj3.azureedge.net/wp-content/uploads/2020/09/Screenshot-540.png",
-      "applicationDeadline": 1,
+      "otherLanguageTests": "ilets",
+      "applicationDeadline": 19/08/2022,
       "description": "Fuuast",
       "deliveryMode": "The Federal Urdu University of Arts, Science and Technology; alternatively known as FUUAST is a public university primarily located at Islamabad, Pakistan. The university has two satellite campuses; the central campus is located in Islamabad while the secondary campus is located in Karachi.",
-      "duration": "Pakistan",
+      "duration": "more than year",
        "university": "karachi",
-      "fundType": "Computer science",
-      "ieltsLevel": "(091) 9216701",
+      "fundType": "fully/partially funded",
+      "ieltsLevel": "7/9 MIN. Score",
       "toeflLevel": 10,
-     "specialization": "sindh",
+     "specialization": "bachelor",
       "neededLanguageInfo": "bscs",
       "aidCoverage": "upadting",
-      "startDate": "https://marj3.azureedge.net/wp-content/uploads/2020/09/Screenshot-540.png",  
-      "title": "https://marj3.azureedge.net/wp-content/uploads/2020/09/Screenshot-540.png"
-      
-      
+      "startDate": 19/08/2023,  
+      "title": "federal urdu"
+      "testName": "ielts",
+      "score": "7/9 MIN. Score",,
       
     },
-    {
-       "id": 2,
-      "name": "university of peshawar",
-      "description": "The University of Peshawar is a public research university located in Peshawar, Khyber Pakhtunkhwa, Pakistan. The university is one of the oldest universities in the province, and is ranked as one of the highest rated universities in the country.",
-      "country": "Pakistan",
-       "city": "peshawar",
-      "faculties": "bscs",
-      "contactInfo": "+92",
-      "rate": 10.2,
-     "state": "sindh",
-      "certifications": "bscs",
-      "extraInfo": "upadting",
-      "imgUrl": "https://marj3.azureedge.net/wp-content/uploads/2020/09/Screenshot-540.png"    
-    },
-    {
-       "id": 3,
-      "name": "university of lahore",
-      "description": "The University of lahore is a public research university located in Peshawar, Khyber Pakhtunkhwa, Pakistan. The university is one of the oldest universities in the province, and is ranked as one of the highest rated universities in the country.",
-      "country": "Pakistan",
-       "city": "lahore",
-      "faculties": "bscs",
-      "contactInfo": "+92",
-      "rate": 10.2,
-     "state": "sindh",
-      "certifications": "bscs",
-      "extraInfo": "upadting",
-      "imgUrl": "https://marj3.azureedge.net/wp-content/uploads/2020/09/Screenshot-540.png"    
-    },
-    
-    {
-       "id": 4,
-      "name": "university of nile",
-      "description": "The University of lahore is a public research university located in Peshawar, Khyber Pakhtunkhwa, Pakistan. The university is one of the oldest universities in the province, and is ranked as one of the highest rated universities in the country.",
-      "country": "Pakistan",
-       "city": "ejpt",
-      "faculties": "computer science, math,english",
-      "contactInfo": "+92",
-      "rate": 10.2,
-     "state": "sindh",
-      "certifications": "bscs",
-      "extraInfo": "upadting",
-      "imgUrl": "https://marj3.azureedge.net/wp-content/uploads/2020/09/Screenshot-540.png"    
-    }
-    
     
      
     
