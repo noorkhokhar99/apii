@@ -2,7 +2,7 @@
 {
   "scholarship": [
     {
-            "id": 1,
+      "id": 1,
       "eligibilityId": 1,
       "benefitId": 1,
       "universityId": 1,
@@ -27,7 +27,9 @@
       "fundType": "fully/partially funded",
       "ieltsLevel": "7/9 MIN. Score",
       "gender": "ALL",
-      "age": "18-24"
+      "age": "18-24",
+      "imgUrl": "https://pbs.twimg.com/media/E_JgCQ5XIAMhMLY?format=jpg&name=medium"
+
       
       
     },
@@ -57,37 +59,13 @@
       "fundType": "fully/partially funded",
       "ieltsLevel": "7/9 MIN. Score",
       "gender": "ALL",
-      "age": "18-24"
-    },
-    {
-       "id": 3,
-      "name": "university of lahore",
-      "description": "The University of lahore is a public research university located in Peshawar, Khyber Pakhtunkhwa, Pakistan. The university is one of the oldest universities in the province, and is ranked as one of the highest rated universities in the country.",
-      "country": "Pakistan",
-       "city": "lahore",
-      "faculties": "bscs",
-      "contactInfo": "+923112167392",
-      "rate": 2,
-     "state": "sindh",
-      "certifications": "bscs",
-      "extraInfo": "upadting",
-      "imgUrl": "https://pbs.twimg.com/media/E_JgCQ5XIAMhMLY?format=jpg&name=medium"
-    },
-    
-    {
-       "id": 4,
-      "name": "university of nile",
-      "description": "The University of lahore is a public research university located in Peshawar, Khyber Pakhtunkhwa, Pakistan. The university is one of the oldest universities in the province, and is ranked as one of the highest rated universities in the country.",
-      "country": "Pakistan",
-       "city": "ejpt",
-      "faculties": "computer science, math,english",
-      "contactInfo": "+923112167392",
-      "rate": 1,
-     "state": "sindh",
-      "certifications": "bscs",
-      "extraInfo": "upadting",
+      "age": "18-24",
       "imgUrl": "https://i.ytimg.com/vi/0EUu9Bp_FxI/maxresdefault.jpg"
+
     }
+
+    
+   
     
     
      
