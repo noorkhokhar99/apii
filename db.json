@@ -2,7 +2,7 @@
 {
   "scholarship": [
     {
-      "id": 1,
+            "id": 1,
       "eligibilityId": 1,
       "benefitId": 1,
       "universityId": 1,
@@ -27,8 +27,9 @@
       "testName": "ielts",
       "score": "7/9 MIN. Score",
       "fundType": "fully/partially funded",
-      "ieltsLevel": "7/9 MIN. Score"
-
+      "ieltsLevel": "7/9 MIN. Score",
+      "gender": "ALL",
+      "age": "18-24"
       
       
     },
