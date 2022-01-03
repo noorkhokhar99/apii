@@ -6,29 +6,30 @@
       "eligibilityId": 1,
       "benefitId": 1,
       "universityId": 1,
-      "benefits": "bscs",
-      "eligibility": "(091) 9216701",
-      "universityName": "fuuast",
+      "universityName": "The Federal Urdu University of Arts, Science and Technology",
       "financialAid": "sindh",
       "applicationProcess": "bscs",
       "extraInfo": "upadting",
       "otherLanguageTests": "ilets",
       "applicationDeadline": "19/08/2022",
-      "description": "Fuuast",
-      "deliveryMode": "The Federal Urdu University of Arts, Science and Technology; alternatively known as FUUAST is a public university primarily located at Islamabad, Pakistan. The university has two satellite campuses; the central campus is located in Islamabad while the secondary campus is located in Karachi.",
+      "startDate": "31/08/2020",
+      "description": "The Federal Urdu University of Arts, Science and Technology; alternatively known as FUUAST is a public university primarily located at Islamabad, Pakistan. The university has two satellite campuses; the central campus is located in Islamabad while the secondary campus is located in Karachi.",
       "duration": "more than year",
-      "specialization": "bachelor",
-      "neededLanguageInfo": "bscs",
-      "aidCoverage": "upadting",
-      "startDate": "19/08/2023", 
-      "title": "federal urdu",
-      "testName": "ielts",
-      "score": "7/9 MIN. Score",
+      "title": "Bachelor",
+      "deliveryMode": "hello",
       "fundType": "fully/partially funded",
       "ieltsLevel": "7/9 MIN. Score",
-      "gender": "ALL",
-      "age": "18-24",
-      "imgUrl": "https://pbs.twimg.com/media/E_JgCQ5XIAMhMLY?format=jpg&name=medium"
+      "toeflLevel": "500/667 MIN. Score",
+      "specialization": "A specialization is a focused area of study of attached to a specific major, with specific coursework beyond major requirements.",
+      "neededLanguageInfo": "bscs",
+      "aidCoverage": "upadting"
+
+
+
+
+      
+
+
 
       
       
@@ -38,29 +39,23 @@
       "eligibilityId": 2,
       "benefitId": 2,
       "universityId": 2,
-      "benefits": "bscs",
-      "eligibility": "(091) 9216701",
-      "universityName": "nie",
-      "financialAid": "panjab",
-      "applicationProcess": "bscs2",
-      "extraInfo": "upadting2",
+      "universityName": "NIE",
+      "financialAid": "10.2",
+      "applicationProcess": "bscs4",
+      "extraInfo": "upadting",
       "otherLanguageTests": "ilets",
-      "applicationDeadline": "19/08/2024",
-      "description": "nie",
-      "deliveryMode": "The nie Urdu University of Arts, Science and Technology; alternatively known as FUUAST is a public university primarily located at Islamabad, Pakistan. The university has two satellite campuses; the central campus is located in Islamabad while the secondary campus is located in Karachi.",
+      "applicationDeadline": "20/08/2022",
+      "startDate": "11/08/2020",
+      "description" : "The nie Urdu University of Arts, Science and Technology; alternatively known as FUUAST is a public university primarily located at Islamabad, Pakistan. The university has two satellite campuses; the central campus is located in Islamabad while the secondary campus is located in Karachi.",
       "duration": "more than year",
-      "specialization": "bachelor",
-      "neededLanguageInfo": "bscs",
-      "aidCoverage": "upadting",
-      "startDate": "19/08/2025", 
-      "title": "balchor",
-      "testName": "ielts",
-      "score": "7/9 MIN. Score",
+      "title": "Bachelor",
+      "deliveryMode": "hello",
       "fundType": "fully/partially funded",
       "ieltsLevel": "7/9 MIN. Score",
-      "gender": "ALL",
-      "age": "18-24",
-      "imgUrl": "https://i.ytimg.com/vi/0EUu9Bp_FxI/maxresdefault.jpg"
+      "toeflLevel": "500/667 MIN. Score",
+      "specialization": "A specialization is a focused area of study of attached to a specific major, with specific coursework beyond major requirements.",
+      "neededLanguageInfo": "bscs",
+      "aidCoverage": "upadting"
 
     }
 
