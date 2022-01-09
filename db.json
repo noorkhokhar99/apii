@@ -3,7 +3,7 @@
   "scholarship": [
     {
       "id": 1,
-      "eligibilityId": 1,
+      "eligibilityId": "eligibilityId",
       "benefitId": 1,
       "universityId": 1,
       "universityName": "The Federal Urdu University of Arts, Science and Technology",
@@ -43,7 +43,7 @@
     },
     {
       "id": 2,
-      "eligibilityId": 2,
+      "eligibilityId": "eligibilityId",
       "benefitId": 2,
       "universityId": 2,
       "universityName": "NIE",
