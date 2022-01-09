@@ -22,9 +22,18 @@
       "toeflLevel": "500/667 MIN. Score",
       "specialization": "A specialization is a focused area of study of attached to a specific major, with specific coursework beyond major requirements.",
       "neededLanguageInfo": "bscs",
-      "aidCoverage": "upadting"
+      "aidCoverage": "upadting",
+      
 
-
+"name": "Fuuast",
+"country": "Pakistan",
+"city": "karachi",
+"faculties": "bscs",
+"contactInfo": "923112167392",
+"rate": 4,
+"state": "sindh",
+"certifications": "bscs",
+"imgUrl": "https://www.thenews.com.pk/assets/uploads/akhbar/2021-06-14/849164_071337_updates.jpg"
 
 
       
@@ -55,7 +64,19 @@
       "toeflLevel": "500/667 MIN. Score",
       "specialization": "A specialization is a focused area of study of attached to a specific major, with specific coursework beyond major requirements.",
       "neededLanguageInfo": "bscs",
-      "aidCoverage": "upadting"
+      "aidCoverage": "upadting",
+                  
+      "name": "university of peshawar",
+"country": "Pakistan",
+"city": "karachi",
+"faculties": "Computer science",
+"contactInfo": "923112167392",
+"rate": 3,
+"state": "sindh",
+"certifications": "bscs",
+"imgUrl": "https://www.thenews.com.pk/assets/uploads/akhbar/2021-06-14/849164_071337_updates.jpg"
+
+
 
     }
 
